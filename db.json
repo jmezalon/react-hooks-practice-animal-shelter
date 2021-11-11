@@ -7,7 +7,7 @@
       "age": 4,
       "weight": 1,
       "name": "Trident",
-      "isAdopted": false
+      "isAdopted": true
     },
     {
       "id": "2c902312-dfa3-446f-8b4b-5e115170d807",
@@ -34,7 +34,7 @@
       "age": 1,
       "weight": 1,
       "name": "Paws",
-      "isAdopted": false
+      "isAdopted": true
     },
     {
       "id": "0ad23cf0-6ea5-432c-bb48-8556a5c1a484",
@@ -43,7 +43,7 @@
       "age": 6,
       "weight": 3,
       "name": "Silent",
-      "isAdopted": false
+      "isAdopted": true
     },
     {
       "id": "ffc4663d-71f3-4ad9-8242-973756c8b8b1",
@@ -214,7 +214,7 @@
       "age": 5,
       "weight": 1,
       "name": "Radar",
-      "isAdopted": false
+      "isAdopted": true
     },
     {
       "id": "a7ea570c-275f-4a4d-aa71-fdd1f72a2c02",
@@ -295,7 +295,7 @@
       "age": 2,
       "weight": 5,
       "name": "Grim",
-      "isAdopted": false
+      "isAdopted": true
     },
     {
       "id": "f20db164-e63e-45e9-80df-d687988e1f09",
